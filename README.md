@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Data Science (AI concentration) and Economics at NYU — two years at NYU Shanghai, now in New York for 2026–27. Full-stack engineering intern at Terran Enterprise, building Terran Denizen, a career platform for MBA students at the M7 business schools: member, admin and partner portals on Next.js/TypeScript, Supabase/PostgreSQL and Stripe, with the iOS app in progress in React Native. Summer 2026: technology risk at EY. Most of my 2026 commits live in the private Terran Denizen org, which is where the green squares come from.
+Data Science (AI concentration) and Economics at NYU — two years at NYU Shanghai, now in New York for 2026–27. Full-stack engineering intern at Terran Enterprise, building Terran Denizen, a career platform for MBA students at the M7 business schools: member, admin and partner portals on Next.js/TypeScript, Supabase/PostgreSQL and Stripe, with the iOS app in progress in React Native. Summer 2026: technology risk at EY.
 
 ### 🛠️ Tech Stack
 
