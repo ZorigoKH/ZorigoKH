@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Data Science (AI concentration) and Economics at NYU — two years at NYU Shanghai, now in New York for 2026–27. Full-stack engineering intern at Terran Enterprise, building Terran Denizen, a career platform for MBA students at the M7 business schools: member, admin and partner portals on Next.js/TypeScript, Supabase/PostgreSQL and Stripe, with the iOS app in progress in React Native. Summer 2026: technology risk at EY.
+Data Science (AI concentration) and Economics at NYU — two years at NYU Shanghai, now in New York for 2026–27. Full-stack engineering intern at Terran Enterprise, building Terran Denizen, a career platform for MBA students at the M7 business schools: member, admin and partner portals on Next.js/TypeScript, Supabase/PostgreSQL and Stripe, with the iOS app in progress in React Native. Summer 2026: technology risk at EY. Most of my 2026 commits live in the private Terran Denizen org, which is where the green squares come from.
 
 ### 🛠️ Tech Stack
 
@@ -54,21 +54,21 @@ Data Science (AI concentration) and Economics at NYU — two years at NYU Shangh
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZorigoKH&show_icons=true&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZorigoKH&layout=compact&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ZorigoKH&theme=tokyonight&hide_border=true&background=00000000&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" alt="GitHub streak" />
 </p>
 
-### 📈 Contribution Graph
+<!--
+After you deploy your own github-readme-stats on Vercel (see notes), replace YOUR-HOST below and move this block out of the comment:
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZorigoKH&bg_color=00000000&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img height="165" src="https://YOUR-HOST.vercel.app/api?username=ZorigoKH&show_icons=true&count_private=true&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+  <img height="165" src="https://YOUR-HOST.vercel.app/api/top-langs/?username=ZorigoKH&layout=compact&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+-->
 
-### 💭 Dev Quote
+### 💭 Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+> *"Make it work, make it right, make it fast."* — Kent Beck
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/ZorigoKH">ZorigoKH</a></i></p>
