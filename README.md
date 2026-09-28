@@ -2,8 +2,6 @@
 
 <p align="center"><b>Data Science (AI) &amp; Economics @ NYU · Full-Stack Engineering @ Terran Enterprise</b></p>
 
-<p align="center"><a href="https://zorikhasbaatar.com">zorikhasbaatar.com</a></p>
-
 <p align="center"><code>econometrics</code> · <code>fintech</code> · <code>full-stack products</code> · <code>data infrastructure</code></p>
 
 ## About Me
@@ -102,6 +100,6 @@ interests = {
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-📍 New York City · [zorikhasbaatar.com](https://zorikhasbaatar.com) · [LinkedIn](https://www.linkedin.com/in/zorigtbaatar/) · [zk2380@nyu.edu](mailto:zk2380@nyu.edu)
+📍 New York City · [LinkedIn](https://www.linkedin.com/in/zorigtbaatar/) · [zk2380@nyu.edu](mailto:zk2380@nyu.edu)
 
 <i>Interested in what happens when the person who builds the model is also the one who has to ship the product.</i>
